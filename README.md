@@ -26,7 +26,7 @@ allprojects {
 
 ## Dependency
 
-Add this to your module's `build.gradle` file (make sure the version matches the JitPack badge above):
+Add this to your module's `build.gradle` file (make sure the version matche the JitPack badge above):
 
 ```gradle
 dependencies {
